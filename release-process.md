@@ -38,10 +38,6 @@ On assignment, the release team lead and shadow(s) are included into the Github 
 - [ ] Schedule and run the weekly release meetings for each phase.
 - [ ] Communicating status to the community on an on-going basis.
 
-
-[
-- Read about the K8s release team selection [here](https://github.com/kubernetes/sig-release/blob/master/release-team/release-team-selection.md#selection-criteria)]
-
 ## Feature definition phase (~2 weeks)
 With ongoing feature definition, some set of issues will bubble up as targeting a given release. In this phase, a set of feature proposals and significant design changes to existing features are reviewed where contributors are able to dedicate time to completing the issue or starting an issue for a future release. 
 
